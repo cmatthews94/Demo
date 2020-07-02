@@ -1,4 +1,4 @@
-# How To – Polystream SDK
+# How To – Polystream SDK 101
 
 ### Overview
 
